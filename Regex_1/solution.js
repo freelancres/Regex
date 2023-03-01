@@ -12,3 +12,10 @@
  * validateCode('+43 77 152 1668') --> 'wrong'
  * 
  */
+
+// Nour Solutions
+const validateCode2 = (number) => {
+  let regEx = /\s\d\d\s/;
+  let result = number.match(regEx);
+  return result == 23 || result == 40 || result == 60;
+};
