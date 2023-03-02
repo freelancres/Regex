@@ -1,6 +1,6 @@
 ## Regular expressions
 
-1-   [Patterns and flags]()
+1-   [Patterns and flags](https://github.com/freelancres/Regex/blob/main/Patterns_and_flags.md)
     
 2-   [Character classes]()
     
